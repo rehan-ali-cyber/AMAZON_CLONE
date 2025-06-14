@@ -157,7 +157,6 @@ a {
     cursor: pointer;
     border: 1.5px solid rgb(234, 232, 232);
     border-radius: 5px;
-    /* Note: 'padding: auto 10px;' is invalid, so removed */
 }
 
 /* Orders section */
